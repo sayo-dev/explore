@@ -91,6 +91,7 @@ class _HomeState extends State<Home> {
               SizedBox(
                 height: getProportionateScreenHeight(48),
                 child: TextField(
+                  cursorColor: Colors.blue,
                   decoration: InputDecoration(
                     filled: true,
                     fillColor: themeProvider.isDarkMode ? Color(0x3398A2B3) : Palette.kGray100,
