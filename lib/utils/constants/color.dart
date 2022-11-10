@@ -7,6 +7,8 @@ class Palette{
   static Color get kGray25 => const Color(0xffA9B8D4);
   static Color get kGray100 => const Color(0xffF2F4F7);
   static Color get kGray200 => const Color(0xffEAECF0);
+  static Color get kGray300 => const Color(0xffD0D5DD);
+  static Color get kGray400 => const Color(0xff98A2B3);
   static Color get kGray500 => const Color(0xff667085);
 
 }
