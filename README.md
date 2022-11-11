@@ -1,16 +1,21 @@
-# explore
+--- App Description
+The simply displays the list of countries and their details.
 
-A new Flutter project.
+--- Code base Description
+The code base is written in MVVM architecture and it's very easy to understand and expand.
 
-## Getting Started
+--- Libraries Description
+shared preferences - for offline and local storage of data.
+provider - for state management.
+dio - for api integration.
 
-This project is a starting point for a Flutter application.
+--- Challenges
+Had delay filtering the list based on preferred selection and I got it fixed my self after few research.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+--- Apk file
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+--- Appetize link
+
+

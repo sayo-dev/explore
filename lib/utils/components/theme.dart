@@ -19,7 +19,7 @@ class ThemeProvider extends ChangeNotifier{
 class DefaultTheme{
   static final lightTheme = ThemeData(
     scaffoldBackgroundColor: Colors.white,
-    colorScheme: const ColorScheme.light()
+    colorScheme: const ColorScheme.light(),
   );
 
   static final darkTheme = ThemeData(
